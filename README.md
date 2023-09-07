@@ -1,1 +1,3 @@
 # if-Aninhado
+
+O documento apresenta conceitos básicos sobre as estruturas condicionais e de repetição em Python e demonstra exemplos do uso da estrutura condicional "if". O if aninhado é uma estrutura que permite criar lógicas mais complexas, com múltiplas condições. No exemplo apresentado, há uma verificação inicial para saber se a conta é normal ou universitária. Em seguida, há uma verificação aninhada para verificar se há saldo suficiente para realizar o saque ou se é necessário usar o cheque especial. Se nenhuma das condições anteriores for atendida, é exibida uma mensagem de erro genérica.
